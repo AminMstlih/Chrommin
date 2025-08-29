@@ -1,2 +1,0 @@
-# Chrommin
-Chrome multi account

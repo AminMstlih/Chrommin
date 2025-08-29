@@ -1,0 +1,19 @@
+// config.json
+{
+    "num_bots": 5,
+    "headless": false,
+    "viewport": {
+        "width": 1280,
+        "height": 720
+    },
+    "ws_host": "localhost",
+    "ws_port": 8765,
+    "enable_extensions": true,
+    "anti_detection": true,
+    "humanize_inputs": true,
+    "wallet_automation": true,
+    "profiles_dir": "profiles",
+    "extensions_dir": "extensions",
+    "action_timeout": 30000,
+    "navigation_timeout": 60000
+}
